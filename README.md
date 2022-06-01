@@ -1,0 +1,2 @@
+# ShopBridge
+ShopBridge_CoreAPI_Synchronus
